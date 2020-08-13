@@ -1,4 +1,4 @@
-![TomboFry](./tombofry.png)
+![TomboFry](https://raw.githubusercontent.com/TomboFry/TomboFry/master/tombofry.png)
 <div align="center">
 Software developer by day, asleep by night.
 </div>
