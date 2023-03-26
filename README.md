@@ -14,7 +14,7 @@ Aspiring chiptune musician.
 &nbsp;&nbsp;/&nbsp;&nbsp;
 👨‍💻 **Tech:** TypeScript, Rust, React
 &nbsp;&nbsp;/&nbsp;&nbsp;
-🧑 **Gender:** he/him
+🧑 **Pronouns:** he/him
 
 ### Links
 
