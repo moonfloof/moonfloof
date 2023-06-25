@@ -20,7 +20,7 @@ Aspiring chiptune musician.
 
 👨‍💻 **Self-hosted git:** [git.tombo.sh](https://git.tombo.sh/tom)
 &nbsp;&nbsp;/&nbsp;&nbsp;
-📊 **Self-quantified data tracking:** [tombo.is](https://www.tombo.is)
+📊 **Quantified-self data tracking:** [now.tomgardiner.me](https://now.tomgardiner.me)
 &nbsp;&nbsp;/&nbsp;&nbsp;
 🎵 **Chiptune music:** [tombofry.co.uk](https://www.tombofry.co.uk)
 &nbsp;&nbsp;/&nbsp;&nbsp;
