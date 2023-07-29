@@ -10,18 +10,14 @@ Aspiring chiptune musician.
 
 ### Quick info
 
-🏢 **Job:** Senior software engineer
-&nbsp;&nbsp;/&nbsp;&nbsp;
-👨‍💻 **Tech:** TypeScript, Rust, React
-&nbsp;&nbsp;/&nbsp;&nbsp;
-🧑 **Pronouns:** he/they
+🏢 **Job:** Senior software engineer  
+👨‍💻 **Tech:** TypeScript, Rust, React  
+🧑 **Pronouns:** he/they  
 
 ### Links
 
-👨‍💻 **Self-hosted git:** [git.tombo.sh](https://git.tombo.sh/tom)
-&nbsp;&nbsp;/&nbsp;&nbsp;
-📊 **Quantified-self data tracking:** [now.tomgardiner.me](https://now.tomgardiner.me)
-&nbsp;&nbsp;/&nbsp;&nbsp;
-🎵 **Chiptune music:** [tombofry.co.uk](https://www.tombofry.co.uk)
-&nbsp;&nbsp;/&nbsp;&nbsp;
-📷 **Dev and photo blog:** [tomgardiner.me](https://www.tomgardiner.me)
+👨‍💻 [**Self-hosted git** (git.tombo.sh)](https://git.tombo.sh/tom)  
+🎵 [**Chiptune music** (tombofry.co.uk)](https://www.tombofry.co.uk)  
+📓 [**Blog** (tomgardiner.me)](https://www.tomgardiner.me)  
+📊 [**Quantified-self data tracking** (now.tomgardiner.me)](https://now.tomgardiner.me)  
+📷 [**Photos** (pixelfed.social)](https://pixelfed.social/i/web/profile/2014)  
