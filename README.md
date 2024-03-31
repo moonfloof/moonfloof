@@ -12,7 +12,7 @@ Aspiring chiptune musician.
 
 🏢 **Job:** Senior software engineer  
 👨‍💻 **Tech:** TypeScript, Rust, React  
-🧑 **Pronouns:** he/they  
+🧑 **Pronouns:** they/them  
 
 ### Links
 
