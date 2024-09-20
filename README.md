@@ -21,3 +21,7 @@ Aspiring chiptune musician.
 📓 [**Blog** (tomgardiner.me)](https://www.tomgardiner.me)  
 📊 [**Quantified-self data tracking** (now.tomgardiner.me)](https://now.tomgardiner.me)  
 📷 [**Photos** (pixelfed.social)](https://pixelfed.social/i/web/profile/2014)  
+
+---
+
+![](https://now.tomgardiner.me/music.svg)
