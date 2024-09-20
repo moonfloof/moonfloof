@@ -24,4 +24,4 @@ Aspiring chiptune musician.
 
 ---
 
-![](https://now.tomgardiner.me/music.svg)
+[![](https://now.tomgardiner.me/music.svg)](https://now.tomgardiner.me/)
