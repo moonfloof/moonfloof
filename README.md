@@ -1,9 +1,9 @@
-![TomboFry](https://raw.githubusercontent.com/TomboFry/TomboFry/master/tombofry.png)
+![moonfloof](https://raw.githubusercontent.com/moonfloof/moonfloof/master/moonfloof.png)
 <div align="center">
 Software developer by day, asleep by night.
 </div>
 <div align="center">
-Aspiring chiptune musician.
+Aspiring progressive-pop and chiptune musician.
 </div>
 
 ---
@@ -16,12 +16,13 @@ Aspiring chiptune musician.
 
 ### Links
 
-👨‍💻 [**Self-hosted git** (git.tombo.sh)](https://git.tombo.sh/tom)  
-🎵 [**Chiptune music** (tombofry.co.uk)](https://www.tombofry.co.uk)  
-📓 [**Blog** (tomgardiner.me)](https://www.tomgardiner.me)  
-📊 [**Quantified-self data tracking** (now.tomgardiner.me)](https://now.tomgardiner.me)  
+👨‍💻 [**Self-hosted git** (git.tombo.sh)](https://git.tombo.sh/floof)  
+🎵 [**Music** (floof.fm)](https://floof.fm)  
+📊 [**Quantified-self data tracking** (now.floof.fm)](https://now.floof.fm)  
 📷 [**Photos** (pixelfed.social)](https://pixelfed.social/i/web/profile/2014)  
 
 ---
 
-[![](https://now.tomgardiner.me/music.svg)](https://now.tomgardiner.me/)
+### Scrobble History (number of songs listened to per day)
+
+[![](https://now.floof.fm/music.svg?v=2)](https://now.floof.fm/music)
