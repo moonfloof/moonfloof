@@ -1,4 +1,4 @@
-![moonfloof](https://raw.githubusercontent.com/moonfloof/moonfloof/master/moonfloof.png)
+![moonfloof](https://raw.githubusercontent.com/moonfloof/moonfloof/master/banner.jpg)
 <div align="center">
 Software developer by day, asleep by night.
 </div>
