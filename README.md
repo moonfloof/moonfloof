@@ -16,7 +16,7 @@ Aspiring progressive-pop and chiptune musician.
 
 ### Links
 
-👨‍💻 [**Self-hosted git** (git.tombo.sh)](https://git.tombo.sh/floof)  
+👨‍💻 [**Self-hosted git** (git.floof.fm)](https://git.floof.fm/floof)  
 🎵 [**Music** (floof.fm)](https://floof.fm)  
 📊 [**Quantified-self data tracking** (now.floof.fm)](https://now.floof.fm)  
 📷 [**Photos** (pixelfed.social)](https://pixelfed.social/i/web/profile/2014)  
@@ -25,4 +25,4 @@ Aspiring progressive-pop and chiptune musician.
 
 ### Scrobble History (number of songs listened to per day)
 
-[![](https://now.floof.fm/music.svg?v=2)](https://now.floof.fm/music)
+[![](https://now.floof.fm/music.svg?v=3)](https://now.floof.fm/music)
