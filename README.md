@@ -11,8 +11,8 @@ Aspiring progressive-pop and chiptune musician.
 ### Quick info
 
 🏢 **Job:** Senior software engineer  
-👨‍💻 **Tech:** TypeScript, Rust, React  
-🧑 **Pronouns:** they/them  
+👨‍💻 **Tech:** TypeScript, Rust, React (+ React Native)  
+🧑 **Pronouns:** she/they  
 
 ### Links
 
